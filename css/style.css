@@ -2960,3 +2960,87 @@ h3,
 .footer-area .footer-bottom .footer-social a span {
     font-size: 14px
 }
+
+
+
+/* SCHEDULE CSS */
+
+.table-schedule {
+    line-height: 1;
+    background: #f1f1f1;
+    font-family: verdana;
+    padding: 0.4822530864em;
+  }
+  
+  /* body {
+    padding: 0.4822530864em;
+  }
+   */
+  .table-schedule h1, h2, h3 {
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .table-schedule h1 {
+    margin-top: 0.3348979767em;
+    margin-bottom: 0.6944444444em;
+    font-size: 1.44em;
+  }
+  
+  .table-schedule h2 {
+    margin-bottom: 0.4822530864em;
+    margin-top: 0.4822530864em;
+  }
+  
+  .table-schedule ol {
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid #ccc;
+    margin: 0 -0.4822530864em 1.44em;
+  }
+  
+  .table-schedule li {
+    display: flex;
+    padding: 0.5em;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .table-schedule .time {
+    padding: 0 0.8333333333em;
+    flex: 0 0 2em;
+    text-align: center;
+  }
+  
+  .table-schedule time {
+    font-size: 0.8333333333em;
+    display: block;
+    line-height: 1.2em;
+  }
+  .table-schedule time:nth-of-type(2) {
+    color: #999;
+  }
+  
+  .table-schedule .details {
+    overflow: hidden;
+    border-left: 2px solid;
+    padding-left: 0.6944444444em;
+    width: 100%;
+  }
+  
+  .table-schedule h3 {
+    margin: 0 0 0.3348979767em;
+    font-weight: 400;
+    font-size: 1em;
+  }
+  
+  .table-schedule .speaker {
+    color: #999;
+    font-size: 0.8333333333em;
+  }
+  
+  .table-schedule .location {
+    float: right;
+    color: #999;
+    font-size: 0.8333333333em;
+  }
